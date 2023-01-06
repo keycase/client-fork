@@ -27,7 +27,7 @@
     "iced-logger": "^0.0.6",
     "iced-runtime": "^1.0.2",
     "iced-utils": "^0.1.22",
-    "json5": "0.5.1",
+    "json5": "1.0.2",
     "minimist": "^1.1.0",
     "prettier": "1.19.1"
   }
