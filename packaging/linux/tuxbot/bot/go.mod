@@ -13,6 +13,6 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.5.1 // indirect
 	github.com/subosito/gotenv v1.2.0
-	golang.org/x/sys v0.0.0-20190507160741-ecd444e8653b // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
